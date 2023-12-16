@@ -2,15 +2,10 @@
 
 class Program
 {
-    /// <summary>
-    /// Sa scrie un program C# care realizeaza conversii din baza
-    /// b1 in baza b2 a unor numere in virgula fixa.
-    /// Bazele b1 si b2 sunt intre 2 si 16. 
-    /// </summary>
-    /// <param name="args"></param>
+
     static void Main(string[] args)
     {
-        // input
+
         int b1, b2;
         string num;
         (b1, b2, num) = GetInput();
