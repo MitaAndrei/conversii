@@ -1,0 +1,15 @@
+/Users/AndreiMita/Projects/conversii/conversii/bin/Debug/net7.0/conversii
+/Users/AndreiMita/Projects/conversii/conversii/bin/Debug/net7.0/conversii.deps.json
+/Users/AndreiMita/Projects/conversii/conversii/bin/Debug/net7.0/conversii.runtimeconfig.json
+/Users/AndreiMita/Projects/conversii/conversii/bin/Debug/net7.0/conversii.dll
+/Users/AndreiMita/Projects/conversii/conversii/bin/Debug/net7.0/conversii.pdb
+/Users/AndreiMita/Projects/conversii/conversii/obj/Debug/net7.0/conversii.csproj.AssemblyReference.cache
+/Users/AndreiMita/Projects/conversii/conversii/obj/Debug/net7.0/conversii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AndreiMita/Projects/conversii/conversii/obj/Debug/net7.0/conversii.AssemblyInfoInputs.cache
+/Users/AndreiMita/Projects/conversii/conversii/obj/Debug/net7.0/conversii.AssemblyInfo.cs
+/Users/AndreiMita/Projects/conversii/conversii/obj/Debug/net7.0/conversii.csproj.CoreCompileInputs.cache
+/Users/AndreiMita/Projects/conversii/conversii/obj/Debug/net7.0/conversii.dll
+/Users/AndreiMita/Projects/conversii/conversii/obj/Debug/net7.0/refint/conversii.dll
+/Users/AndreiMita/Projects/conversii/conversii/obj/Debug/net7.0/conversii.pdb
+/Users/AndreiMita/Projects/conversii/conversii/obj/Debug/net7.0/conversii.genruntimeconfig.cache
+/Users/AndreiMita/Projects/conversii/conversii/obj/Debug/net7.0/ref/conversii.dll
